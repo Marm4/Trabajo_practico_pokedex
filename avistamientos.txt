@@ -1,0 +1,17 @@
+1;Bulbasaur;Bulbasaur es un pokemon tipo tierra, que se encuentra favorecido en este entorno;Bulbipt;25;S
+4;Charmander;Charmander es un pokemon tipo fuego, el cual produce fuego en su pulmones;Chandelier;5;N
+9;Blastoise;Blastoise es un pokemon tipo agua, el cual tiene dos cañones que lanzan chorros de agua;Blastodonte;100;S
+67;Machoke;Machoke es un pokemon de fuerza, el cual sabe artesmarciales;Machokechon;65;S
+64;Kadabra;Kadabra es un pokemon tipo oscuro, el cual utiliza magia;AdaKada;43;N
+128;Taurus;Taurus es un pokemon tipo toro, de mucho temperamento;Taunus;100;S
+134;Vaporeon;Vaporeon es un pokemon tipo agua, el cual se hace fuerte en espacios humedos;Vaporcin;43;N
+76;Golem;Golem es un pokemon tipo roca, el cual se camufla muy facilmente alrededor de estas;Golum;23;S
+149;Dragonite;Dragonite es una especie dragon, fuerte peleador en los aires;Dragoncin;75;S
+151;Mewtow;Mewtow es unico en su especie, tipo psiquico, el cual fue diseñado por humanos;Mewtow;999;N
+64;Kadabra;Kadabra es un pokemon tipo oscuro, el cual utiliza magia;AbaDaKa;44;S
+64;Kadabra;Kadabra es un pokemon tipo oscuro, el cual utiliza magia;DaKadaBa;42;S
+9;Blastoise;Blastoise es un pokemon tipo agua, el cual tiene dos cañones que lanzan chorros de agua;Blastier;50;N
+9;Blastoise;Blastoise es un pokemon tipo agua, el cual tiene dos cañones que lanzan chorros de agua;Blasteiner;120;S
+149;Dragonite;Dragonite es una especie dragon, fuerte peleador en los aires;Dragonzan;95;N
+149;Dragonite;Dragonite es una especie dragon, fuerte peleador en los aires;DraZhao;125;S
+128;Taurus;Taurus es un pokemon tipo toro, de mucho temperamento;Torito;10;N

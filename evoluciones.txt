@@ -1,0 +1,5 @@
+149;DraZhao;250;DragoNight;Los DragoNight son dragones de la noche..
+128;Torito;129;Tourus;Los tourus son toros legenadrios..
+64;AbaDaKa;65;Kadabron;Los Kadabrones son oscuros y de temperamento..
+9;Blasteiner;999;Blaston;Los blaston tienen 5 cañones de agua en la espalda..
+134;Vaporcin;135;Aguinia;Las Agunias, son fuertes en el agua...
